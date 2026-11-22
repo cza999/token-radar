@@ -1,0 +1,5 @@
+# Never commit keys, credentials, transcripts, or build output.
+*keypair*.json
+wallet/
+transcripts.tar.gz
+out/
